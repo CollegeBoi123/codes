@@ -1,5 +1,5 @@
 # codes
-
+<span>
 separateRGB
 clear all
 clc
@@ -137,3 +137,4 @@ for x = 1:1:190
 end
 figure(😎
 imshow(c1)
+<span>
